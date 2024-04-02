@@ -1,0 +1,3 @@
+event_api/.env
+.idea/*
+event_api/db.sqlite3

@@ -15,7 +15,7 @@ Certifique-se de ter o Python e o Poetry instalados em seu sistema.
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd event-api
+   cd freelaw
    ```
 
 3. Instale as dependências usando Poetry:
